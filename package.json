@@ -6,6 +6,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "my-old-space": "file:../hode_js_drive/packages/my-old-space"
+    "my-old-space": "git+https://github.com/anfy1284/OldSpace.git#path:packages/my-old-space"
   }
 }
